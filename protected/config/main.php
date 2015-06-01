@@ -8,7 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Elisoft Quiz',
-
+	//change something
 	// preloading 'log' component
 	'preload'=>array('log'),
     'timeZone' => 'Asia/Ho_Chi_Minh',

@@ -1,0 +1,160 @@
+*, a:focus {
+    outline: medium none !important;
+}
+a:hover,a:focus{
+      text-decoration: none;
+}
+body {
+    background: none repeat scroll 0 0 #f8f8f8 !important;
+    font-family: "Roboto",sans-serif;
+}
+body {
+    transition: all 0.5s ease 0s;
+}
+
+.navbar-default {
+    background-color: #428bff;
+    border-color: transparent;
+}
+.navbar {
+    background-color: #0b4d78 !important;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+	border-radius:0;
+}
+.navbar-default .navbar-toggle {
+    border-color: #3276b1;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ecf0f1;
+}
+.navbar-default .navbar-brand {
+    color: #ecf0f1;
+}
+.navbar-brand {
+    padding-top: 15px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #ecf0f1;
+}
+.navbar-nav > li > a {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.navbar .active > a {
+    background-color: #09334f !important;
+    background-image: none;
+    background-repeat: no-repeat;
+    filter: none;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #ffffff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #3276b1;
+    color: #ffffff;
+}
+.navbar-form {
+    margin-top: 15px;
+    padding-right: 0;
+}
+.btn-primary {
+    background-color: #0b4d78;
+    border-color: #0b4d78;
+}
+.btn-sm, .btn-group-sm > .btn {
+    padding: 5px 10px;
+}
+.btn-success {
+    background-color: #36c157 !important;
+    border-color: #36c157 !important;
+}
+.btn {
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 9px 12px;
+}
+.btn-sm, .btn-group-sm > .btn {
+    padding: 5px 10px;
+}
+.navbar-form .dropdown-toggle.btn-default {
+    background-color: #08273c;
+    border-color: #08273c;
+    color: #fff;
+}
+.navbar .dropdown-menu {
+    border-top: 1px solid #0b4d78;
+}
+.nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+    margin-top: 0;
+}
+.dropdown-menu {
+    background-clip: padding-box;
+    border: medium none;
+    border-radius: 3px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.05);
+    font-size: 14px;
+    left: 0;
+    min-width: 160px;
+    padding: 5px 0;
+    top: 100%;
+}
+.panel {
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+div.panel {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.panel-body {
+    padding: 0;
+    text-align: center;
+}
+.in-image {
+    float: left;
+    padding-right: 25px;
+}
+.in-bold {
+    font-size: 26px;
+    font-weight: bold;
+}
+.in-thin {
+    font-size: 26px;
+    font-weight: 100;
+}
+.navbar-login {
+    padding: 10px 10px 0;
+    width: 305px;
+}
+.icon-size {
+    font-size: 87px;
+}
+.contain_slide{
+  background: #eee;
+  padding: 15px 30px;
+  margin-bottom: 15px;
+  border-radius: 6px; 
+}
+.carousel-inner{
+    min-height: 300px;
+}
+.errorMessage{
+	color:red;
+}
+.ques_content{
+    margin-bottom:30px;
+    font-size: 21px;
+    font-weight: 200;
+}
+#timer{
+    font-weight: 900;
+}
+.cus-btn{
+    width: 100px;
+    margin: 5px 0;
+}
+.mb-30{
+    margin-bottom: 30px;
+}
